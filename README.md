@@ -3,7 +3,7 @@ Vim cheat sheet
 
 ## Общий вид команд v
 (command)(number)(text object)
-или в эквивалентной записи:
+или в эквивалентной записи: <br>
 (number)(command)(text object)
 
 ## Изменение текста
