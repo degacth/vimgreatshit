@@ -1,0 +1,2 @@
+Reset alt-shift layout change error on Ubuntu:
+sudo dpkg-reconfigure keyboard-configuration
